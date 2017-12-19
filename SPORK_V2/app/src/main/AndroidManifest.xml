@@ -17,7 +17,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HomePage"></activity>
+        <activity android:name=".HomePage" />
+        <activity
+            android:name=".nav_menu_home"
+            android:label="@string/title_activity_nav_menu_home"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
