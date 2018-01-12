@@ -90,7 +90,7 @@ public class nav_menu_home extends AppCompatActivity
 
         } else if (id == R.id.nav_share) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_view) {
 
         }
 
